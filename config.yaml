@@ -1,0 +1,8 @@
+s3url: 
+s3region: 
+s3bucket: "jira-backup-test-s3"
+s3id: "chungsubeen"
+s3accesskey: "AKIASS7VZZITFTQY5UZP"
+s3secretkey: "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"
+prospectors:
+- "C:\\Users\\Subeen\\Documents\\workspace\\atlassian-backup\\target\\*"
